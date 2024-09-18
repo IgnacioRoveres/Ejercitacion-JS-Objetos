@@ -10,4 +10,4 @@ const autos = [
 for (const auto of autos){
     console.log(`${auto.Marca} ${auto.Modelo} ${auto.Año}`);
 }
-    
+    as

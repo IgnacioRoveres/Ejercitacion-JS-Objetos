@@ -6,3 +6,10 @@ const auto = {
     modelo: 'Corolla',
     año: 2016,
         }
+
+
+
+
+
+
+        //prueba 18/09
